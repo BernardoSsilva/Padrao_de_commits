@@ -1,4 +1,4 @@
-Tipo e descrição 🦄
+# Tipo e descrição 🦄
 
 O commit semântico possui os elementos estruturais abaixo (tipos), que informam a intenção do seu commit ao utilizador(a) de seu código.
 
@@ -22,21 +22,20 @@ chore - Commits do tipo chore indicam atualizações de tarefas de build, config
 
 ci - Commits do tipo ci indicam mudanças relacionadas a integração contínua (continuous integration).
 
-By: IURI CODE.
 
-Recomendações 🎉
 
-Adicione um título consistente (friem/de acordo) com o commit.
+# Recomendações 🎉
 
-Para descrever com detalhes, usar a descrição do commit.
+* Adicione um título consistente (friem/de acordo) com o commit.
 
-Usar um emoji no início da mensagem de commit representando sobre o commit.
+* Para descrever com detalhes, usar a descrição do commit.
 
-Os links precisam ser adicionados em sua forma mais autêntica, ou seja: sem encurtadores de link e links afiliados.
+* Usar um emoji no início da mensagem de commit representando sobre o commit.
 
-Colocar código referente a sprint no cabeçalho de commit. Ex: Código da Sprint no artia.
+* Os links precisam ser adicionados em sua forma mais autêntica, ou seja: sem encurtadores de link e links afiliados.
 
-By: IURI CODE e AGPR5.
+* Colocar código referente a sprint no cabeçalho de commit. Ex: Código da Sprint no artia.
+
 
 Padrões de emojis 💈
 
