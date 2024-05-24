@@ -48,58 +48,49 @@ Padrões de emojis 💈
 | Bugfix                          | 🐛 `:bug:`              | fix           |
 | Comentários                     | 💡 `:bulb:`             | docs          |
 | Commit inicial                  | 🎉 `:tada:`             | init          |
+| Configuração                    | 🔧 `:wrench:`           | chore         |
+| Deploy                          | 🚀 `:rocket:`           |               |
+| Documentação                    | 📚`:books:`             | docs          |
+| Em progresso                    | 🚧 `:construction:`     |               |
+| Estilização de interface        | 💄 `:lipstick:`         | feat          |
+| Infraestrutura                  | 🧱 `:bricks:`           | ci            |
+| Lista de ideias (tasks)         | 🔜 `:soon:`             |               |
+| Mover/Renomear                  | 🚚 `:truck:`            | chore         |
+| Novo recurso                    | ✨ `:sparkles:`         | feat          |
+| Package.json em JS              | 📦 `:package:`          | build         |
+| Performance                     | ⚡ `:zap:`              | perf          |
+| Refatoração                     | ♻️ `:recycle:`          | refactor      |
+| Removendo um arquivo            | 🔥 `:fire:`             |               |
+| Removendo uma dependência       | ➖ `:heavy_minus_sign:` | build         |
+| Responsividade                  | 📱 `:iphone:`           |               |
+| Revertendo mudanças             | 💥 `:boom:`             | fix           |
+| Segurança                       | 🔒️ `:lock: `           |               |
+| SEO                             | 🔍️ `:mag:`             |               |
+| Tag de versão                   | 🔖 `:bookmark:`         |               |
+| Teste de aprovação              | ✔️ `:heavy_check_mark:` | test          |
+| Testes                          | 🧪 `:test_tube:`        | test          |
+| Texto                           | 📝 `:pencil:`           |               |
+| Tipagem                         | 🏷️ `:label:`            |               |
+| Tratamento de erros             | 🥅 `:goal_net:`         |               |
+
 
 💻 Exemplos
 
-Comando Git
+| Comando Git                                                             | Resultado no GitHub                               |
+| ----------------------------------------------------------------------- | ------------------------------------------------- |
+| `git commit -m ":tada: Commit inicial"`                                 | 🎉 Commit inicial                                 |
+| `git commit -m ":books: docs: Atualizaçao do README"`                   | 📚 docs: Atualizaçao do README                    |
+| `git commit -m ":bug: fix: Loop infinito na linha 50"`                  | 🐛 fix: Loop infinito na linha 50                 |
+| `git commit -m ":sparkles: feat: Pagina de login"`                      | ✨ feat: Pagina de login                          |
+| `git commit -m ":bricks: ci: Modificaçao no Dockerfile"  `              | 🧱 ci: Modificaçao no Dockerfile                  |
+| ` git commit -m ":recycle: refactor: Passando para arrow functions"`    | ♻️ refactor: Passando para arrow functions        |
+| `git commit -m ":zap: perf: Melhoria no tempo de resposta"`             | ⚡ perf: Melhoria no tempo de resposta            |
+| `git commit -m ":boom: fix: Revertendo mudanças ineficientes"`          | 💥 fix: Revertendo mudanças ineficientes          |
+| `git commit -m ":lipstick: feat: Estilizaçao CSS do formulario"`        | 💄 feat: Estilizaçao CSS do formulario            |
+| ` git commit -m ":test_tube: test: Criando novo teste"`                 | 🧪 test: Criando novo teste                       |
+| `git commit -m ":bulb: docs: Comentários sobre a função LoremIpsum( )"` | 💡 docs: Comentários sobre a função LoremIpsum( ) |
 
-Resultado no GitHub
 
-git commit -m ":tada: Commit inicial"
-
-🎉 Commit inicial
-
-git commit -m ":books: docs: Atualizaçao do README"
-
-📚 docs: Atualizaçao do README
-
-git commit -m ":bug: fix: Loop infinito na linha 50"
-
-🐛 fix: Loop infinito na linha 50
-
-git commit -m ":sparkles: feat: Pagina de login"
-
-✨ feat: Pagina de login
-
-git commit -m ":bricks: ci: Modificaçao no Dockerfile"
-
-🧱 ci: Modificaçao no Dockerfile
-
-git commit -m ":recycle: refactor: Passando para arrow functions"
-
-♻️ refactor: Passando para arrow functions
-
-git commit -m ":zap: perf: Melhoria no tempo de resposta"
-
-⚡ perf: Melhoria no tempo de resposta
-
-git commit -m ":boom: fix: Revertendo mudanças ineficientes"
-
-💥 fix: Revertendo mudanças ineficientes
-
-git commit -m ":lipstick: feat: Estilizaçao CSS do formulario"
-
-💄 feat: Estilizaçao CSS do formulario
-
-git commit -m ":test_tube: test: Criando novo teste"
-
-🧪 test: Criando novo teste
-
-git commit -m ":bulb: docs: Comentários sobre a função LoremIpsum( )"
-
-💡 docs: Comentários sobre a função LoremIpsum( )
-
-💻 Exemplos commit com DESCRIÇÃO
 
 Observações: 
 
