@@ -96,22 +96,8 @@ Observações:
 
 As descrições são necessárias quando não conseguimos definir um título consistente (título firme ou de acordo com o commit a ser realizado) ou quando teremos que detalhar nossas alterações/correções.
 
-Comando Git
-
-Resultado no GitHub
-
-git commit -m ":bug: fix: Loop infinito na linha 50" 
--m “useEffect na linha 50 estava com dependência de um state atualizado dentro do mesmo, ocasionando o loop infinito.“
-
-🐛 fix: Loop infinito na linha 50
-
-useEffect na linha 50 estava com dependência de um state atualizado dentro do mesmo, ocasionando o loop infinito.
-
-git commit -m ":recycle: refactor: Correção de cálculo"
--m “Correção na função de cálculo que estava somando os valores os invés de subtrair.“
-
-♻️ refactor: Correção de cálculo
-
-Correção na função de cálculo que estava somando os valores os invés de subtrair.
-
+| Comando Git                                                                                                                                                                   | Resultado no GitHub                                                                                                                                 |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `git commit -m ":bug: fix: Loop infinito na linha 50" -m “useEffect na linha 50 estava com dependência de um state atualizado dentro do mesmo, ocasionando o loop infinito.“` | 🐛 fix: Loop infinito na linha 50 useEffect na linha 50 estava com dependência de um state atualizado dentro do mesmo, ocasionando o loop infinito. |
+| `git commit -m ":recycle: refactor: Correção de cálculo" -m “Correção na função de cálculo que estava somando os valores os invés de subtrair.“ `                             | ♻️ refactor: Correção de cálculo Correção na função de cálculo que estava somando os valores os invés de subtrair.                                  |
 
